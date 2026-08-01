@@ -2,6 +2,7 @@
 
 int main()
 {
+    //1
     int n=3;
     int bt[3]={5,3,8};
     int wt[3],tat[3];

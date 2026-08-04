@@ -53,5 +53,5 @@ int main() {
     printf("Average Waiting Time = %.2f\n", avgWT / n);
     printf("Average Turnaround Time = %.2f\n", avgTAT / n);
 
-    return 0;
+    return 
 }

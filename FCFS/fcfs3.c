@@ -54,4 +54,4 @@ int main() {
     printf("Average Turnaround Time = %.2f\n", avgTAT / n);
 
     return 0;
-}..
+}...
